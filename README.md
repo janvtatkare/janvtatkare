@@ -1,46 +1,39 @@
-AI Engineer | LLM Systems Builder | Full Stack Engineer
-💡 I build production-grade AI systems powered by LLMs from RAG pipelines to agentic workflows and integrate them into scalable web applications.
+## Janhavi Tatkare — Full-Stack AI Engineer
 
-📍 NY, USA 🔗 LinkedIn | GitHub
+React · Spring Boot · LangGraph · FastAPI · AWS · Azure · TypeScript · Python
 
-⚡ What I Do
-🤖 Design & deploy LLM-powered applications (RAG, agents, multi-model orchestration)
-🧠 Build LangChain / LangGraph workflows
-☁️ Ship scalable AI microservices on AWS (Lambda, S3, API Gateway, Docker)
-🔐 Engineer secure backend systems with Node.js, FastAPI, GraphQL
-🎯 Integrate AI directly into real-world production products
-🛠 Tech Stack
-AI / LLMs LangChain • LangGraph • LlamaIndex • OpenAI • Gemini • HuggingFace • Vector Stores • RAG • Agentic Pipelines • Guardrails
+Building production AI systems and the full-stack infrastructure around them.
+5 years across healthtech and fintech · New York, NY · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
 
-Backend Node.js • Express • FastAPI • REST • GraphQL • Python
+---
 
-Frontend React • Next.js • Angular • TypeScript • Redux
+### What I've shipped
 
-Cloud & DevOps AWS (Lambda, S3, EC2, RDS, SQS, CloudWatch) • Docker • CI/CD • Jenkins
+| | |
+|---|---|
+| 🔍 **RAG pipeline** | 300K+ docs · p95 < 170ms · 35% fewer hallucinations · 38% lower cost-per-request |
+| 🏥 **Healthcare platform** | 130+ EHR integrations · 99.95% ingestion reliability · GenAI triage assistant |
+| 🛒 **B2B e-commerce** | Zero-to-one · BFF layer cut round-trips 45% · 99.9% uptime |
+| ⚡ **Frontend perf** | LCP 3.2s → 2.0s · bundle size −31% · UI regressions −48% |
+| 🔒 **API reliability** | Latency 250ms → 170ms · rollbacks −72% · 82% test coverage |
 
-🏆 Highlights
-🧠 Built production agentic LLM systems reducing manual triage & decision time
-🚀 Delivered AI-integrated platforms serving thousands of users with 99%+ uptime
-📊 Designed automated LLM evaluation pipelines to reduce rollback risk
-📚 Published ML research in Springer (Disease Classification using ANN)
-🔥 Featured Projects
-📝 AI Resume & Cover Letter Toolkit
-LLM-powered app using OpenAI + Gemini to analyze and optimize resumes with personalized feedback.
+---
 
-🧬 Disease Classification using ML
-Published research applying ANN + data mining for medical classification.
+### Stack
 
-🎯 Currently Focused On
-Advanced multi-agent architectures
-LLM evaluation & reliability engineering
-Production AI observability & guardrails
-High-performance AI system design
-📬 Let’s Build AI That Ships
-If you're hiring for:
+**AI** — LangChain · LangGraph · Azure OpenAI · RAG · Pinecone · LLM Evaluation  
+**Backend** — Spring Boot · FastAPI · Node.js · Kafka · GraphQL · Java · Python  
+**Frontend** — React · TypeScript · Redux · Next.js · Storybook  
+**Cloud** — AWS (Lambda · S3 · EC2 · SQS) · Azure (AKS · OpenAI · Service Bus · Functions)  
+**Data** — PostgreSQL · MongoDB · Redis · Elasticsearch · Databricks  
 
-AI Engineer
-Applied AI Engineer
-LLM Engineer
-Full Stack AI Developer
-Software Developer/Software Engineer
-Let’s connect.
+---
+
+### Projects
+
+**[AI Resume Toolkit](https://github.com/YOUR_HANDLE/YOUR_REPO)** — Resume analysis + job alignment scoring using OpenAI & Gemini APIs  
+**[Disease Classification](https://doi.org/10.1007/978-981-16-1249-7_12)** — Published in Springer · ANN + CBC data · 91% accuracy
+
+---
+
+*MS Computer Science · NJIT 2025 · Open to AI Engineer / Full-Stack AI / Applied AI roles*
