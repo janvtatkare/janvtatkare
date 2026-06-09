@@ -24,23 +24,13 @@ I build clean, reliable BI solutions that turn raw data into business-ready dash
 
 ## Technical Skills
 
-**BI & Visualization** — Power BI · Tableau · DAX · SSRS · Excel · Power Query
-**Data & Analytics** — SQL · Python · SAS · R · Jupyter Notebook · Advanced Excel
-**ETL & Data Engineering** — Microsoft Fabric · Azure Data Factory · Dataflows Gen2 · ETL/ELT · ETL Validation
-**Data Modeling & Databases** — Semantic Modeling · Dimensional Modeling · Star Schema · Data Marts · SQL Server · SSMS · Stored Procedures · Views · SQL Agent Jobs
-**AI & Productivity Tools** — GitHub Copilot · Claude · ChatGPT
-
----
-
-## Selected Work
-
-| Project                                                  | Focus                                                                                                        |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 📺 **Netflix, Amazon Prime & Disney+ Hotstar Dashboard** | Power BI dashboard comparing content libraries, genres, release trends, and platform-level KPIs              |
-| 💳 **Credit Risk Analysis**                  | Credit risk analytics using Power BI, loan performance metrics, borrower segmentation, and default analysis  |
-| 📈 **Executive KPI Reporting**                           | Operational, financial, and customer performance dashboards with dynamic metrics and drill-through analysis  |
-| 🔄 **ETL Reporting Workflow**                            | ADF and Fabric-based reporting pipelines with scheduled refresh, dependency triggers, and failure monitoring |
-| ✅ **Data Validation Framework**                          | SQL-based reconciliation checks to improve accuracy across recurring audit and management reports            |
+| Category | Tools & Technologies |
+|---|---|
+| **BI & Visualization** | Power BI · Tableau · DAX · SSRS · Excel · Power Query |
+| **Data & Analytics** | SQL · Python · SAS · R · Jupyter Notebook · Advanced Excel |
+| **ETL & Data Engineering** | Microsoft Fabric · Azure Data Factory · Dataflows Gen2 · ETL/ELT · ETL Validation |
+| **Data Modeling & Databases** | Semantic Modeling · Dimensional Modeling · Star Schema · Data Marts · SQL Server · SSMS · Stored Procedures · Views · SQL Agent Jobs |
+| **AI & Productivity Tools** | GitHub Copilot · Claude · ChatGPT |
 
 ---
 
