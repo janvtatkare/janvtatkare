@@ -5,7 +5,8 @@ Data Analyst
 
 I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
-[LinkedIn](https://www.linkedin.com/in/janhavitatkare/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavitatkare/)
+[![Explore My Work](https://img.shields.io/badge/View%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janvtatkare?tab=repositories)
 
 ---
 
