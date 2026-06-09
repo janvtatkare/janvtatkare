@@ -1,39 +1,56 @@
-## Janhavi Tatkare — Full-Stack AI Engineer
+# Janhavi Tatkare — Data Analyst | Power BI | SQL | ETL
 
-React · Spring Boot · LangGraph · FastAPI · AWS · Azure · TypeScript · Python
+**Power BI · SQL · DAX · Microsoft Fabric · Azure Data Factory · Python · Tableau · Excel**
 
-Building production AI systems and the full-stack infrastructure around them.
-5 years across healthtech and fintech · New York, NY · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
----
-
-### What I've shipped
-
-| | |
-|---|---|
-| 🔍 **RAG pipeline** | 300K+ docs · p95 < 170ms · 35% fewer hallucinations · 38% lower cost-per-request |
-| 🏥 **Healthcare platform** | 130+ EHR integrations · 99.95% ingestion reliability · GenAI triage assistant |
-| 🛒 **B2B e-commerce** | Zero-to-one · BFF layer cut round-trips 45% · 99.9% uptime |
-| ⚡ **Frontend perf** | LCP 3.2s → 2.0s · bundle size −31% · UI regressions −48% |
-| 🔒 **API reliability** | Latency 250ms → 170ms · rollbacks −72% · 82% test coverage |
+[LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-### Stack
+## What I work on
 
-**AI** — LangChain · LangGraph · Azure OpenAI · RAG · Pinecone · LLM Evaluation  
-**Backend** — Spring Boot · FastAPI · Node.js · Kafka · GraphQL · Java · Python  
-**Frontend** — React · TypeScript · Redux · Next.js · Storybook  
-**Cloud** — AWS (Lambda · S3 · EC2 · SQS) · Azure (AKS · OpenAI · Service Bus · Functions)  
-**Data** — PostgreSQL · MongoDB · Redis · Elasticsearch · Databricks  
-
----
-
-### Projects
-
-**[AI Resume Toolkit](https://github.com/YOUR_HANDLE/YOUR_REPO)** — Resume analysis + job alignment scoring using OpenAI & Gemini APIs  
-**[Disease Classification](https://doi.org/10.1007/978-981-16-1249-7_12)** — Published in Springer · ANN + CBC data · 91% accuracy
+| Area                         | Experience                                                                                            |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 📊 **Power BI Dashboards**   | Executive dashboards, KPI cards, drill-through pages, slicers, scheduled refresh, row-level security  |
+| 🧠 **Semantic Modeling**     | Reusable DAX measures, calculation groups, field parameters, star schema, governed datasets           |
+| 🧩 **SQL & Databases**       | SQL Server, SSMS, stored procedures, views, SQL Agent jobs, query optimization                        |
+| 🔄 **ETL & Data Pipelines**  | Microsoft Fabric, Azure Data Factory, Dataflows Gen2, ETL/ELT workflows, pipeline monitoring          |
+| ✅ **Data Quality**           | Validation checks, reconciliation logic, referential integrity, audit-ready reporting                 |
+| 🤖 **AI-Assisted Analytics** | GitHub Copilot, Claude, ChatGPT for DAX support, SQL review, documentation, and analysis acceleration |
 
 ---
 
-*MS Computer Science · NJIT 2025 · Open to AI Engineer / Full-Stack AI / Applied AI roles*
+## Technical Skills
+
+**BI & Visualization** — Power BI · Tableau · DAX · SSRS · Excel · Power Query
+**Data & Analytics** — SQL · Python · SAS · R · Jupyter Notebook · Advanced Excel
+**ETL & Data Engineering** — Microsoft Fabric · Azure Data Factory · Dataflows Gen2 · ETL/ELT · ETL Validation
+**Data Modeling & Databases** — Semantic Modeling · Dimensional Modeling · Star Schema · Data Marts · SQL Server · SSMS · Stored Procedures · Views · SQL Agent Jobs
+**AI & Productivity Tools** — GitHub Copilot · Claude · ChatGPT
+
+---
+
+## Selected Work
+
+| Project                                                  | Focus                                                                                                        |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 📺 **Netflix, Amazon Prime & Disney+ Hotstar Dashboard** | Power BI dashboard comparing content libraries, genres, release trends, and platform-level KPIs              |
+| 💳 **LendingClub Credit Risk Analysis**                  | Credit risk analytics using Power BI, loan performance metrics, borrower segmentation, and default analysis  |
+| 📈 **Executive KPI Reporting**                           | Operational, financial, and customer performance dashboards with dynamic metrics and drill-through analysis  |
+| 🔄 **ETL Reporting Workflow**                            | ADF and Fabric-based reporting pipelines with scheduled refresh, dependency triggers, and failure monitoring |
+| ✅ **Data Validation Framework**                          | SQL-based reconciliation checks to improve accuracy across recurring audit and management reports            |
+
+---
+
+## What I bring
+
+* Strong hands-on experience with **Power BI, SQL, DAX, ETL, and data modeling**
+* Ability to translate business requirements into dashboards, KPIs, and reporting logic
+* Experience building governed BI solutions with reusable semantic layers
+* Practical knowledge of SQL validation, reconciliation, and audit-ready reporting
+* Comfortable using AI tools to speed up analysis, documentation, and development without replacing technical judgment
+
+---
+
+*MS Computer Science · Data Analyst / BI Analyst · Open to Business Intelligence, Data Analyst, and Reporting Analyst roles*
