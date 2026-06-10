@@ -16,7 +16,7 @@ I build clean, reliable BI solutions that turn raw data into business-ready dash
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=janvtatkare&label=PROFILE%20VIEWS&base=100&style=for-the-badge&color=2EA44F" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=janvtatkare&label=PROFILE%20VIEWS&base=1025&style=for-the-badge&color=2EA44F" alt="Profile views" />
 </p>
 
 ---
