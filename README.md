@@ -2,8 +2,6 @@
 
 Data Analyst
 
-**Power BI · SQL · DAX · Microsoft Fabric · Azure Data Factory · Python · Tableau · Excel**
-
 I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
 <p align="left">
